@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577703133753",
+    "project_id": "hw04-bac26",
+    "storage_bucket": "hw04-bac26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577703133753:android:cb770811c43dbbae2783e8",
+        "android_client_info": {
+          "package_name": "com.example.hw4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7koj5xHeU_JyS_v0Vqe4t2WsOwNhwQCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
